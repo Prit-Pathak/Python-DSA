@@ -7,8 +7,8 @@ marks = {
 }
 
 # for k in marks:
-#     # print(k)
-#     # print(marks[k])
+#     print(k)
+#     print(marks[k])
 #     print(f"Key = {k}, Value = {marks[k]}")
 
 # total = 0

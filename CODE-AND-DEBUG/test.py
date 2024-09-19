@@ -62,10 +62,15 @@
 
 # print(lst)
 
-nums = [1, 2, 3, 4, 5, 6, 7]
-k = 3
-n = len(nums)
-for i in range(n - 1, k + 1, -1):
-    nums[i], nums[(n - 1) % i] = nums[n % i], nums[i]
 
-print(nums)
+# nums = [0, 1, 0, 3, 12]
+# n = len(nums)
+# for i in range(0, n):
+#     if nums[i] == 0:
+#         ele = nums.pop(i)
+#         nums.append(ele)
+
+# print(nums)
+
+
+
